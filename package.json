@@ -24,7 +24,7 @@
   "homepage": "https://github.com/volkovasystems/prid#readme",
   "dependencies": {
     "arid": "^0.26.0",
-    "comex": "^0.18.0",
+    "comex": "^0.19.0",
     "falzy": "^0.20.0",
     "numric": "^0.14.0",
     "pedon": "^0.13.0",

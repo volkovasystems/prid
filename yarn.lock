@@ -190,6 +190,16 @@ cagd@^0.1.0:
     wichevr "^0.9.0"
     zelf "^0.11.0"
 
+cald@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/cald/-/cald-0.0.0.tgz#3493bc4e49b65c933c408731cf40fb0455c04457"
+  dependencies:
+    babel-runtime "^6.23.0"
+    protype "^0.21.0"
+    shft "^0.1.0"
+    wichevr "^0.9.0"
+    zelf "^0.11.0"
+
 called@^0.28.0:
   version "0.28.0"
   resolved "https://registry.yarnpkg.com/called/-/called-0.28.0.tgz#57db80e79d0794d7be12d25cf9fa44bba23e573d"
@@ -295,12 +305,13 @@ cobralize@^0.14.0:
     falzy "^0.19.0"
     protype "^0.21.0"
 
-comex@^0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/comex/-/comex-0.18.0.tgz#305a169f82209cf00bdee74538fe9671b9a321e2"
+comex@^0.19.0:
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/comex/-/comex-0.19.0.tgz#e0d201ed08c40cc93517cfd2946a1e3e2b511f31"
   dependencies:
     arid "^0.26.0"
     clazof "^0.27.0"
+    condev "^0.13.0"
     depher "^0.33.0"
     diatom "^0.29.0"
     falzy "^0.20.0"
@@ -309,6 +320,7 @@ comex@^0.18.0:
     protype "^0.22.0"
     raze "^0.30.0"
     stringe "^0.4.0"
+    transpher "^0.26.0"
     truly "^0.19.0"
     zelf "^0.12.0"
 
@@ -319,6 +331,23 @@ condev@^0.12.0:
     annon "^0.6.0"
     aply "^0.1.0"
     babel-runtime "^6.23.0"
+    clazof "^0.27.0"
+    doubt "^0.26.0"
+    enyof "^0.7.0"
+    eqe "^0.2.0"
+    falzy "^0.19.0"
+    fnamed "^0.8.0"
+    protype "^0.21.0"
+    raze "^0.29.0"
+    truly "^0.18.0"
+
+condev@^0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/condev/-/condev-0.13.0.tgz#32a85ec8d0559c53f624c34992fd807b1cf18f86"
+  dependencies:
+    annon "^0.6.0"
+    babel-runtime "^6.23.0"
+    cald "^0.0.0"
     clazof "^0.27.0"
     doubt "^0.26.0"
     enyof "^0.7.0"
