@@ -129,7 +129,7 @@ const prid = function prid( name, synchronous ){
 		let catcher = command.execute( )
 			.then( function done( error, pid ){
 				if( error instanceof Error ){
-					return catcher.pass( new Error( `cannot get process identity, ${ error.stack }` ), pid );
+					return catcher.pass( new Error( `cannot get process identity, ${ error.stack }` ), [ ] );
 
 				}else{
 					return catcher.pass( null, resolvePID( pid ) );
