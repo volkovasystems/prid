@@ -1,0 +1,34 @@
+{
+  "name": "prid",
+  "version": "0.0.0",
+  "description": "Get process PID.",
+  "main": "prid.js",
+  "scripts": {
+    "test": "mocha prid-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/prid.git"
+  },
+  "keywords": [
+    "get",
+    "process",
+    "pid",
+    "prid"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/prid/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/prid#readme",
+  "dependencies": {
+    "arid": "^0.26.0",
+    "comex": "^0.18.0",
+    "falzy": "^0.20.0",
+    "numric": "^0.14.0",
+    "pedon": "^0.13.0",
+    "protype": "^0.22.0",
+    "wichevr": "^0.10.0"
+  }
+}
