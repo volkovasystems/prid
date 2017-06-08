@@ -1,6 +1,6 @@
 {
   "name": "prid",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Get process PID.",
   "main": "prid.js",
   "scripts": {
@@ -25,10 +25,13 @@
   "dependencies": {
     "arid": "^0.26.0",
     "comex": "^0.19.0",
+    "depher": "^0.33.0",
     "falzy": "^0.20.0",
     "numric": "^0.14.0",
     "pedon": "^0.13.0",
     "protype": "^0.22.0",
-    "wichevr": "^0.10.0"
+    "shft": "^0.1.0",
+    "wichevr": "^0.10.0",
+    "zelf": "^0.12.0"
   }
 }

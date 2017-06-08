@@ -1,9 +1,12 @@
 yarn add \
 arid \
 comex \
+depher \
 falzy \
+numric \
 pedon \
 protype \
-numric \
+shft \
 wichevr \
+zelf \
 --save
